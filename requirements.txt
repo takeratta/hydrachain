@@ -3,3 +3,4 @@ rlp>=0.4.3
 pyethapp>=1.2.1
 secp256k1==0.12.1
 simpy==3.0.8
+werkzeug>=3.1.4 # not directly required, pinned by Snyk to avoid a vulnerability
